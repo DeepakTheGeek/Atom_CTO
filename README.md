@@ -1,6 +1,6 @@
 # Atom_CTO
 Hey there, Deepak here. In this application Angular is used as front end and ASP.Net Core Web API is used as back end. 
-For Angular version 10 is used and for API, version 3.1 is used. 
+For Angular, version 10 is used and for API, version 3.1 is used. 
 
 Few point before running the application:
 -----------------------------------------
